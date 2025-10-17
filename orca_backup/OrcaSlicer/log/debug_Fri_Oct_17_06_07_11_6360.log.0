@@ -1,0 +1,2 @@
+[error]	2025-10-17 06:07:19.495747[Thread 0x000004d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-17 06:07:23.122737[Thread 0x000004d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

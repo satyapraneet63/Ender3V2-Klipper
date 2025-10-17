@@ -1,0 +1,26 @@
+[error]	2025-10-13 12:05:50.915928[Thread 0x00001d1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-13 12:05:54.690833[Thread 0x00001d1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-13 12:05:54.784835[Thread 0x00001d1c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-10-13 12:06:47.665996[Thread 0x00001d1c]:12:06:47 PM: Warning: Error running JavaScript: "TypeError: Cannot read properties of null (reading 'setAttribute')"
+[warning]	2025-10-13 12:11:35.395966[Thread 0x000019fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:11:37.491007[Thread 0x000011e8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:12:44.709475[Thread 0x00001850]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-13 12:14:11.836190[Thread 0x00001d1c]:OctoPrint: Error getting version: curl:Couldn't resolve host name:
+Could not resolve host: cb1.local
+[Error 6], HTTP 0, body: ``
+[error]	2025-10-13 12:16:47.595345[Thread 0x00001d1c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-13 12:16:55.520912[Thread 0x00001d1c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-13 12:17:14.870587[Thread 0x000020f4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2025-10-13 12:27:36.244624[Thread 0x000019fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-13 12:28:13.653720[Thread 0x00001648]:PrusaSlicer failed to resolve hostname http://cb1.local into the IP address. Starting upload with system resolving.
+[error]	2025-10-13 12:28:16.324685[Thread 0x00001648]:OctoPrint: Error getting version: curl:Couldn't resolve host name:
+Could not resolve host: cb1.local
+[Error 6], HTTP 0, body: ``
+[warning]	2025-10-13 12:36:59.637106[Thread 0x00000da4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:37:53.635521[Thread 0x000011e8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:37:54.499341[Thread 0x00001850]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:37:54.534579[Thread 0x00001850]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:37:54.595744[Thread 0x00001850]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:37:54.659770[Thread 0x00001850]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 12:38:23.441520[Thread 0x00000da4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-13 12:47:26.491801[Thread 0x00001d1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
