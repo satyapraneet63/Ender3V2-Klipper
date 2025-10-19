@@ -1,7 +1,0 @@
-[error]	2025-10-13 11:49:02.199307[Thread 0x00001b80]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-10-13 11:49:05.275934[Thread 0x00001b80]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-10-13 11:49:05.441167[Thread 0x00001b80]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2025-10-13 11:50:12.781217[Thread 0x00001b80]:OctoPrint: Error getting version: curl:Couldn't resolve host name:
-Could not resolve host: cb1.local
-[Error 6], HTTP 0, body: ``
-[error]	2025-10-13 11:51:24.841562[Thread 0x00001b80]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

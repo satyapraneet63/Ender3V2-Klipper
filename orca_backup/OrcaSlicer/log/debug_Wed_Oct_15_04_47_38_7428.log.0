@@ -1,7 +1,0 @@
-[error]	2025-10-15 04:47:47.417493[Thread 0x00001cf0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-10-15 04:47:50.621876[Thread 0x00001cf0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-10-15 04:47:50.823448[Thread 0x00001cf0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2025-10-15 04:48:56.334443[Thread 0x00001cf0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-10-15 04:49:16.483570[Thread 0x00001cf0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
-[error]	2025-10-15 04:49:52.267245[Thread 0x00001cf0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
-[error]	2025-10-15 04:50:13.737956[Thread 0x00001cf0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

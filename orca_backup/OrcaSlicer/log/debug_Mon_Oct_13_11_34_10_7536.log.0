@@ -1,7 +1,0 @@
-[warning]	2025-10-13 11:34:10.429484[Thread 0x00001b14]:Failed to load to hints.cereal. File does not exists. C:\Users\praneet\AppData\Roaming\OrcaSlicer\user\hints.cereal
-[error]	2025-10-13 11:34:17.170475[Thread 0x00001b14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-10-13 11:34:18.169519[Thread 0x00001b14]:Found Framebuffer Type unknown!
-[error]	2025-10-13 11:34:18.169519[Thread 0x00001b14]:Found opengl version <= 2.0
-[error]	2025-10-13 11:34:22.131310[Thread 0x00001b14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-10-13 11:35:30.552205[Thread 0x00001b14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-10-13 11:35:30.592049[Thread 0x00001b14]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
