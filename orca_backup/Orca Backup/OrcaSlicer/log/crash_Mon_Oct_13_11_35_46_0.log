@@ -1,0 +1,82 @@
+Exceptions:
+Exception Code :c0000005 ACCESS_VIOLATION
+Exception Flag :0x0 NumberParameters :2 
+Param 0 :0x8 
+Param 1 :0x0 
+Context :000000D4D355A200 
+ContextFlag : 0x10005f, EFlags: 0x10206 
+Fault address:  0x0 0x61006F:0x52005C C:\Program Files\OrcaSlicer\orca-slicer.exe
+
+Registers:
+RAX:0000000000004B18
+RBX:000001EC2830D0A0
+RCX:0000000000000001
+RDX:000000D4D355A9A0
+RSI:0000000000000000
+RDI:000001EC2830EBA0
+R8:000000000001C290
+R9:00000000000000DD
+R10:000001EC239C4044
+R11:000000D4D355A810
+R12:0000000000000000
+R13:000001EC2830EBB0
+R14:000001EC3AF8B9F0
+R15:0000000000070A40
+CS:RIP:0033:0000000000000000
+SS:RSP:002B:000000D4D355A938  RBP:000000D4D355AA40
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00010206
+
+Show CallStack:
+7ffe9e315a9d:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9e312c37:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9e1a6304:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9e481cf9:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9e48292e:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9e1353ff:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9f5d1fd6:hid_write [Unknown file][-1]
+7ffe9f5d08df:hid_write [Unknown file][-1]
+7ffe9f5d0ccb:hid_write [Unknown file][-1]
+7ffe9f5d0f8f:hid_write [Unknown file][-1]
+7ffe9f5d080b:hid_write [Unknown file][-1]
+7ffe9f5d0acb:hid_write [Unknown file][-1]
+7ffe9f5d340b:hid_write [Unknown file][-1]
+7ffe9f60fa74:hid_write [Unknown file][-1]
+7ffe9f60fcda:hid_write [Unknown file][-1]
+7ffe9f5d2da1:hid_write [Unknown file][-1]
+7ffe9f5d5793:hid_write [Unknown file][-1]
+7ffe9f636438:hid_write [Unknown file][-1]
+7ffe9e1f2eec:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ffe9d80c69d:TDataStd_GenericEmpty::Restore [Unknown file][-1]
+7ffe9d8783dc:orcaslicer_main [Unknown file][-1]
+7ff7118a56bc:Unknown [Unknown file][-1]
+7ff7118a5cb6:Unknown [Unknown file][-1]
+7ffef431e8d7:BaseThreadInitThunk [Unknown file][-1]
+7ffef4ea8d9c:RtlUserThreadStart [Unknown file][-1]
+
+Logical Address:
+0x9E315A9D 0x1:0xE74A9D C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E312C37 0x1:0xE71C37 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E1A6304 0x1:0xD05304 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E481CF9 0x1:0xFE0CF9 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E48292E 0x1:0xFE192E C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E1353FF 0x1:0xC943FF C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D1FD6 0x1:0x2130FD6 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D08DF 0x1:0x212F8DF C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D0CCB 0x1:0x212FCCB C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D0F8F 0x1:0x212FF8F C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D080B 0x1:0x212F80B C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D0ACB 0x1:0x212FACB C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D340B 0x1:0x213240B C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F60FA74 0x1:0x216EA74 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F60FCDA 0x1:0x216ECDA C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D2DA1 0x1:0x2131DA1 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F5D5793 0x1:0x2134793 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9F636438 0x1:0x2195438 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9E1F2EEC 0x1:0xD51EEC C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9D80C69D 0x1:0x36B69D C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x9D8783DC 0x1:0x3D73DC C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+0x118A56BC 0x1:0x46BC C:\Program Files\OrcaSlicer\orca-slicer.exe
+0x118A5CB6 0x1:0x4CB6 C:\Program Files\OrcaSlicer\orca-slicer.exe
+0xF431E8D7 0x1:0x2D8D7 C:\WINDOWS\System32\KERNEL32.DLL
+0xF4EA8D9C 0x1:0x7D9C C:\WINDOWS\SYSTEM32\ntdll.dll

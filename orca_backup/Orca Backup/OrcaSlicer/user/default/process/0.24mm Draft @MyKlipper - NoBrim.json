@@ -1,0 +1,9 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.24mm Draft @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.24mm Draft @MyKlipper - NoBrim",
+    "print_settings_id": "0.24mm Draft @MyKlipper - NoBrim",
+    "version": "2.3.1.10"
+}

@@ -1,0 +1,13 @@
+[error]	2025-10-13 23:00:55.936806[Thread 0x00000a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-13 23:01:00.242272[Thread 0x00000a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-13 23:01:00.460907[Thread 0x00000a88]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-10-13 23:03:54.683199[Thread 0x00000d0c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2025-10-13 23:04:27.008847[Thread 0x000013bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:04:27.046932[Thread 0x000013bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:04:27.209274[Thread 0x000013bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:04:27.252456[Thread 0x000013bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:07:33.642270[Thread 0x00001968]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:07:33.782509[Thread 0x00001968]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:32:23.922768[Thread 0x000013bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-13 23:32:24.100119[Thread 0x000013bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-13 23:41:31.264142[Thread 0x00000a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
