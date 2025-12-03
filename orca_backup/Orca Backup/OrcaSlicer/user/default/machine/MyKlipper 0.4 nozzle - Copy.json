@@ -1,9 +1,0 @@
-{
-    "from": "User",
-    "inherits": "MyKlipper 0.4 nozzle",
-    "is_custom_defined": "0",
-    "name": "MyKlipper 0.4 nozzle - Copy",
-    "print_host": "192.168.29.5",
-    "printer_settings_id": "MyKlipper 0.4 nozzle - Copy",
-    "version": "2.3.1.10"
-}

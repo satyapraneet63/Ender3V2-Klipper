@@ -1,5 +1,0 @@
-[warning]	2025-10-13 11:45:56.160102[Thread 0x000033a0]:Failed to load to hints.cereal. File does not exists. C:\Users\praneet\AppData\Roaming\OrcaSlicer\user\hints.cereal
-[error]	2025-10-13 11:46:04.155447[Thread 0x000033a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-10-13 11:46:07.605142[Thread 0x000033a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-10-13 11:46:07.752012[Thread 0x000033a0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2025-10-13 11:46:45.303763[Thread 0x000033a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
